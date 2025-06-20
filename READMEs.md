@@ -29,12 +29,12 @@ A clean and responsive HTML email signature built using semantic markup and inli
 
 ### 🖼️ Preview
 
-*(You may include a screenshot of the signature here, if desired.)*
+* screenshot:![screenshot](../expenses-chart-component-main/assets/screenshot.png) 
 
 ### 🔗 Links
 
-* Live Preview: *\[Add GitHub Pages/CodePen URL if available]*
-* Source Code: [GitHub Repository](https://github.com/yourusername/email-signature)
+* Live Preview:  https://rodney-mokenyu.github.io/professional-email-signature/
+* Source Code: [GitHub Repository](https://github.com/rodney-mokenyu/professional-email-signature)
 
 ---
 
